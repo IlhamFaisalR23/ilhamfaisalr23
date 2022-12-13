@@ -12,9 +12,6 @@
   Hallo There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 ---
 
 ### :woman_technologist: About Me :
@@ -27,3 +24,12 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications with Python.
 
 - :mailbox: Contact: [![Linkedin Badge](https://img.shields.io/badge/-ilhamfaisalr-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilhamfaisalr/)
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="mysql" alt="flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="flask" width="40" height="40"/>&nbsp;
+</div>
